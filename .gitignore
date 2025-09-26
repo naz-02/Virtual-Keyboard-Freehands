@@ -1,0 +1,6 @@
+# Virtual environment
+venv_keyboard/
+
+# Python cache
+__pycache__/
+*.pyc
